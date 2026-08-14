@@ -1,0 +1,23 @@
+node_modules
+dist
+.vercel
+*.local
+
+.vercel
+
+# Original source media kept locally; optimized site assets live in public/media.
+/*.jpg
+/*.jpeg
+/*.png
+/*.mp4
+/*.MP4
+/*.mp3
+
+# Local optimized alternates not currently referenced by the site.
+/public/media/hero-collage.jpg
+/public/media/hero-red-wall.jpg
+/public/media/hero-red-wall.webp
+/public/media/lamp-point.jpg
+/public/media/lamp-pose.jpg
+/public/media/lamp-swing.jpg
+/public/media/reel-reveal.mp4
