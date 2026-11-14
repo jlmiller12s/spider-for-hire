@@ -21,3 +21,7 @@ dist
 /public/media/lamp-pose.jpg
 /public/media/lamp-swing.jpg
 /public/media/reel-reveal.mp4
+
+# Contract rendering intermediates used for local visual QA.
+/contract_render/
+/contract_render_v2/
